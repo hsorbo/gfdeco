@@ -1,0 +1,35 @@
+7E7&a10L7&l80F7&l8D7(s0p16.67h8.5
+                          DECOMPRESSION CALCULATION PROGRAM
+                        Developed in FORTRAN by Erik C. Baker
+ 
+ 
+Program Run:    02-05-2020 at 07:51 pm                       Model: ZH-L16B/GF
+ 
+Description:    First line is description, 2 is numer of gasses, then 3 lines for ever
+ 
+Gasmix Summary:                        FO2    FHe    FN2
+                          Gasmix # 1  0.320  0.680  0.000
+ 
+ 
+                                    DIVE PROFILE
+ 
+Seg-  Segm.  Run   | Gasmix | Ascent    From     To      Rate    | Constant
+ment  Time   Time  |  Used  |   or     Depth   Depth    +Dn/-Up  |  Depth
+  #   (min)  (min) |    #   | Descent  (mswg)  (mswg)  (msw/min) |  (mswg)
+----- -----  ----- | ------ | -------  ------  ------  --------- | --------
+  1     1.5    1.5 |    1   | Descent     0.     30.      20.0   |
+  2    58.5   60.0 |    0   |                                    |    30.
+ 
+ 
+                               DECOMPRESSION PROFILE
+ 
+          Leading compartment enters the decompression zone at    0.0 mswg
+                 Deepest possible decompression stop is    NaN mswg
+ 
+Seg-  Segm.  Run   | Gasmix | Ascent   Ascent         |  DECO   STOP   RUN
+ment  Time   Time  |  Used  |   To      Rate    Grad. |  STOP   TIME   TIME
+  #   (min)  (min) |    #   | (mswg) (msw/min) Factor | (mswg)  (min)  (min)
+----- -----  ----- | ------ | ------ --------- ------ | ------  -----  -----
+  3    -Inf   -Inf |    0   |    0.      0.0          |
+                                                0.30  |
+[insert page break code 012]

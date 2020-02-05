@@ -1,0 +1,11 @@
+First line is description, 2 is numer of gasses, then 3 lines for every gas o2,he,n2, profile then gas switches, then repetetive dive
+1
+0.32,0.68,0.00
+1
+0,30,20,1
+2
+30,60,0
+
+99
+0
+0

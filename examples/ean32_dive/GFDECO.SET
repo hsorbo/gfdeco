@@ -1,0 +1,7 @@
+&Program_Settings 
+    Units='msw'
+    Altitude_Dive_Algorithm='off'
+    Minimum_Deco_Stop_Time=2
+    Gradient_Factor_Lo=0.3
+    Gradient_Factor_Hi=0.85
+/
